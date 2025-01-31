@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "OnePlus Nord 4",
+        "color" : "green",
+        "price" : 550,
+        "restart" : false
+    },
+    {
+        "name" : "Samsung Galaxy S24 FE",
+        "color" : "black",
+        "price" : 749,
+        "restart" : true
+    },
+    {
+        "name" : "Iphone 15 pro",
+        "color" : "blue",
+        "price" : 12490,
+        "restart" : false
+    }
+]
